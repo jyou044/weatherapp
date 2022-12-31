@@ -8,20 +8,20 @@ This is a weather app I developed in React Native using the Expo CLI. It was dev
 
 ## Home Screen
 
-![Home_Screen](/assets/HomeScreen.jpg "Home")
+<img src="/assets/HomeScreen.jpg" alt="Home" height="850" width="384" >
 
 ## Weather App
 
-![Weather_App_Scren](/assets/App.jpg "Weather App")
+<img src="/assets/App.jpg" alt="Weather App" height="850" width="384" >
 
 ## City 1
 
-![Flow_1](/assets/example1.jpg "Example App Flow 1")
+<img src="/assets/example1.jpg" alt="Example App Flow 1" height="850" width="384" >
 
 ## City 2
 
-![Flow_2](/assets/example2.jpg "Example App Flow 2")
+<img src="/assets/example2.jpg" alt="Example App Flow 2" height="850" width="384" >
 
 ## Location Not Selected
 
-![Location_Alert](/assets/ErrorAlert.jpg "Location Not Selected")
+<img src="/assets/ErrorAlert.jpg" alt="Location Not Selected" height="850" width="384" >
